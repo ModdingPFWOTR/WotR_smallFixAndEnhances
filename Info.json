@@ -1,0 +1,12 @@
+{
+  "Id": "smallFixAndEnhances",
+  "DisplayName": "Small Fix and Enhances",
+  "Author": "Picninim piq",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.23.0",
+  "GameVersion": "2.7.0",
+  "AssemblyName": "smallFixAndEnhances.dll",
+  "EntryMethod": "smallFixAndEnhances.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
